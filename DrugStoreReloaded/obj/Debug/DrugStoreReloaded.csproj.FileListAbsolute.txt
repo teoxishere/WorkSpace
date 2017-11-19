@@ -67,3 +67,5 @@ F:\WorkSpace\DrugStoreReloaded\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 F:\WorkSpace\DrugStoreReloaded\obj\Debug\DrugStoreReloaded.csprojResolveAssemblyReference.cache
 F:\WorkSpace\DrugStoreReloaded\obj\Debug\DrugStoreReloaded.dll
 F:\WorkSpace\DrugStoreReloaded\obj\Debug\DrugStoreReloaded.pdb
+F:\WorkSpace\DrugStoreReloaded\obj\Debug\DrugStoreReloaded.Migrations.AddedPacientClass.resources
+F:\WorkSpace\DrugStoreReloaded\obj\Debug\DrugStoreReloaded.csproj.GenerateResource.Cache
